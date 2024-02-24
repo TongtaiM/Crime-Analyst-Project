@@ -1,4 +1,4 @@
-This is my first ml project Which i did in my university class
+This is my first ml project which i did in my university class
 
 # About This Project
 This project is focusing in classification Type of crime from crime data in los angleles
