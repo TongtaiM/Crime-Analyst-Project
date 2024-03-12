@@ -1,7 +1,7 @@
 This is my first ml project which i did in my university class
 
 # About This Project
-This project is focusing in classification type of crime from crime data in los angleles
+Identified crime clusters with K-Modes clustering and built a classification model (decision tree, Naive Bayes, KNN, CatBoost) to predict crime types.
 
 ## My Project following this step
 ### 1. Clean data
