@@ -11,4 +11,4 @@ This is for my final group project in my university. I was responsible for writi
 - We developed a classification model to predict which crime group will occur to victim.
 - This project utilizes dplyr, ggplot2, and other machine learning library.
 - 
-## You can see all code from my r file
+## You can see all code from my R file
